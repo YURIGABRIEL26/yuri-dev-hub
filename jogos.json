@@ -1,20 +1,11 @@
 [
   {
-    "slug": "rogue-survivor",
-    "titulo": "Project: Rogue Survivor",
+    "slug": "riftwalker",
+    "titulo": "RiftWalker",
     "genero": "Roguelite de Ação",
-    "autor": "Yuri",
-    "descricao": "Enfrente hordas de inimigos em visão top-down, evolua suas habilidades em tempo real e desbloqueie classes poderosas.",
+    "autor": "YuriVoid",
+    "descricao": "Enfrente hordas de inimigos in-game, evolua suas habilidades em tempo real e desbloqueie classes poderosas.",
     "status": "Em Desenvolvimento",
-    "link": "#"
-  },
-  {
-    "slug": "cyber-runner",
-    "titulo": "Neon Cyber Runner",
-    "genero": "Plataforma / Arcade",
-    "autor": "Seu Amigo",
-    "descricao": "Um jogo de ritmo rápido com estética cyberpunk focado em reflexos e pontuação alta.",
-    "status": "Concluído",
-    "link": "#"
+    "link": "https://itch.io"
   }
 ]
